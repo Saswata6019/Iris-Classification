@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd 
 
 iris = pd.read_csv("D:/Python Programs/Neural Network/iris.csv")
-predict = pd.read_excel("D:/Python Programs/Neural Network/iris_predict.csv")
+predict = pd.read_csv("D:/Python Programs/Neural Network/iris_predict.csv")
 
 iris.iloc[:,0:3] = iris.iloc[:,0:3].astype(np.float32)
 iris["species"] = iris["species"].map({"Iris-setosa":0, "Iris-virginica":1, "Iris-versicolor":2}) 
