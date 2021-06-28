@@ -1,7 +1,7 @@
 # Iris Classification
 Classification of 3 species of flowers (versicolor, virginica, setosa) belonging to the Iris family, using Data Processing (Tensorflow 1.12.0 and Python 3.6.6)
 
-- Editor used: Sublime Text 
+- Editor used: Sublime Text 3
 - Shell used to run the code: Git Bash
 - Libraries used: Pandas, Numpy & Tensorflow
 - iris.csv is the main dataset, which is used for the training and testing stages of the model
