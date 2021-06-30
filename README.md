@@ -1,5 +1,5 @@
 # Iris Classification
-Classification of 3 species of flowers (versicolor, virginica, setosa) belonging to the Iris family, using Data Processing (Tensorflow 1.12.0 and Python 3.6.6)
+Classification of 3 species of flowers (versicolor, virginica, setosa) belonging to the Iris family, using a Fully Connected Neural Network for Data Processing (Tensorflow 1.12.0 and Python 3.6.6)
 
 - Editor used: Sublime Text 3
 - Shell used to run the code: Git Bash
